@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "グロリアスレボリューション",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2026-04-01T02:55:56.483998Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "グロリアスレボリューション",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/01_グロリアスレボリューション_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "09. グロリアスレボリューション",
+      "artist": "Bump of Chicken",
+      "has_synced": true,
+      "path": "select/02_09._グロリアスレボリューション_Bump_of_Chicken.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "グロリアスレボリューション",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_グロリアスレボリューション_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
